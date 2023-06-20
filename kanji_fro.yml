@@ -1,0 +1,39 @@
+name: kanji_fro
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2023.05.30=haa95532_0
+  - certifi=2022.12.7=py37haa95532_0
+  - openssl=1.1.1u=h2bbff1b_0
+  - pip=22.3.1=py37haa95532_0
+  - python=3.7.16=h6244533_0
+  - setuptools=65.6.3=py37haa95532_0
+  - sqlite=3.41.2=h2bbff1b_0
+  - vc=14.2=h21ff451_1
+  - vs2015_runtime=14.27.29016=h5e58377_2
+  - wheel=0.38.4=py37haa95532_0
+  - wincertstore=0.2=py37haa95532_2
+  - pip:
+    - absl-py==1.4.0
+    - attrs==23.1.0
+    - cycler==0.11.0
+    - filterpy==1.4.5
+    - flatbuffers==23.5.26
+    - fonttools==4.38.0
+    - importlib-metadata==6.7.0
+    - kiwisolver==1.4.4
+    - matplotlib==3.5.3
+    - mediapipe==0.9.0.1
+    - motpy==0.0.10
+    - numpy==1.21.6
+    - opencv-contrib-python==4.7.0.72
+    - packaging==23.1
+    - pillow==9.5.0
+    - protobuf==3.20.3
+    - pyparsing==3.1.0
+    - python-dateutil==2.8.2
+    - scipy==1.7.3
+    - six==1.16.0
+    - typing-extensions==4.6.3
+    - zipp==3.15.0
+prefix: C:\Users\taiki\anaconda3\envs\kanji_fro
